@@ -1,6 +1,6 @@
 #Configure the AWS provider
 provider "aws" {
-  alias = "instance3"
+  alias = "instance5"
   region = "us-east-2"
 }
 
